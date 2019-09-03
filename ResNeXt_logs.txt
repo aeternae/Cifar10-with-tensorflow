@@ -1,0 +1,1 @@
+epoch: 1/300, train_loss: 0.9644, train_acc: 0.7454, test_loss: 1.0527, test_acc: 0.6598 
